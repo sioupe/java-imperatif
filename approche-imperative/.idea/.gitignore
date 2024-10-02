@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/.idea
-/.iml
-/out
+approche-imperative/.idea
+approche-imperative/*.iml
+approche-imperative/out
